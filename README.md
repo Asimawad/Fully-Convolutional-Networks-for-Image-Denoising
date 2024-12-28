@@ -3,7 +3,6 @@
 This project demonstrates the implementation of a fully convolutional network for image denoising using the color version of the LFWcrop dataset. It aims to reconstruct clean images from their noisy counterparts by leveraging a small yet effective autoencoder architecture.
 
 ## **1. Project Overview**
-
 ### **Objective**
 To build a fully convolutional network capable of removing Gaussian noise from images and achieving accurate reconstruction.
 
@@ -104,6 +103,9 @@ pip install -r requirements.txt
 - Incorporate additional data augmentation techniques.
 - Evaluate on other types of noise (e.g., salt-and-pepper noise).
 
+
 ## **8. License**
 This project is licensed under the MIT License.
+
+https://github.com/Asimawad/Fully-Convolutional-Networks-for-Image-Denoising.git
 
